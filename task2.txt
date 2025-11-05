@@ -1,3 +1,4 @@
 Hi
 This is the task 2 of git
 This is the extra line added while practising 
+This is a line added to use clone command
